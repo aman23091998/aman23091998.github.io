@@ -1,0 +1,54 @@
+body{
+  margin: 0;
+  padding: 0;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  flex-flow: column;
+}
+
+/* What's new? */
+
+.new-title{
+  font-size: 35px;
+  font-family: 'Space Mono', monospace;
+}
+
+.new-card{
+
+}
+
+.new-card-header{
+  background-color: #4ABDAC;
+  color: #F7B733;
+  font-weight: bold;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 35px;
+  height: 40px;
+  padding: 10px;
+}
+
+.new-card-image img{
+  height: 270px;
+  width: 350px;
+}
+
+.new-card-desp{
+  box-sizing: border-box;
+  padding: 5px;
+  font-size: 13px;
+  height: 270px;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+  background-color: #DFDCE3;
+  color: ##000000;
+}
+
+.programming-langauges{
+  font-size: 14px;
+  font-weight: bold;
+  color: #FC4A1A;
+  padding: 5px;
+  text-align: right;
+}

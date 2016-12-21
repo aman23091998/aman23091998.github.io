@@ -1,12 +1,12 @@
-body{
-  margin: 0px;
-}
-
 *{
 	-ms-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
+}
+
+body{
+  margin: 0px;
 }
 
 @font-face{
@@ -88,10 +88,11 @@ li:hover {
 }
 
 .introduction{
+  height: 100%;
   display: flex;
-  justify-content: center;;
+  justify-content: center;
   flex-direction: column;
-  margin-top: 17%;
+  align-items: center;
 }
 
 
