@@ -52,3 +52,38 @@ body{
   padding: 5px;
   text-align: right;
 }
+
+.card{
+  box-sizing: border-box;
+  display: flex;
+  flex-flow: column;
+  width: 300px;
+  height: 400px;
+  padding: 10px;
+  margin: 15px;
+  border: 3px solid red;
+}
+
+.card-header img{
+  height: 120px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-header-title{
+  padding: 5px 0;
+  font-weight: bold;
+  font-family: Avenir;
+  font-size: 20px;
+}
+
+.card-desp{
+  box-sizing: border-box;
+  padding: 5px 0;
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
