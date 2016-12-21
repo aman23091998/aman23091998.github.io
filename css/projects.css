@@ -1,22 +1,29 @@
 body{
   margin: 0;
   padding: 0;
-  width: 80%;
   display: flex;
   justify-content: center;
   margin: auto;
   flex-flow: column;
 }
 
+.projects{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
 /* What's new? */
 
-.new-title{
+.title{
   font-size: 35px;
   font-family: 'Space Mono', monospace;
+  margin: 0 10%;
 }
 
 .new-card{
-
+  margin: 0 10%;
 }
 
 .new-card-header{
@@ -64,8 +71,12 @@ body{
   border: 3px solid red;
 }
 
+.feature-card{
+  height: 350px;
+}
+
 .card-header img{
-  height: 120px;
+  height: 140px;
   width: 100%;
   display: flex;
   justify-content: center;
