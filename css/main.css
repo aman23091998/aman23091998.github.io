@@ -46,14 +46,16 @@ body{
 	text-align: center;
 	vertical-align: middle;
   padding: 14px 16px;
+	color: #DFDCE3;
 }
 
-.navigation-bar li a{
+.navigation-bar li a, .navigation-bar li a:visited{
+	color: #DFDCE3;
 	display: block;
 	text-decoration: none;
 }
 
-li:hover {
+li:hover, li a:hover{
     color: #F7B733;
 }
 
