@@ -55,7 +55,7 @@ body{
 	text-decoration: none;
 }
 
-li:hover, li a:hover{
+li:hover, li a:hover, li a:visited:hover{
     color: #F7B733;
 }
 
