@@ -6,7 +6,15 @@
 }
 
 body{
-  margin: 0px;
+  margin: 0;
+	padding: 0;
+	min-width: 100%;
+  min-height: 100%;
+	background: linear-gradient(270deg, rgb(75, 207, 147), rgb(75, 121, 207), rgb(162, 75, 207)) 0% 0% / 300% 300%;
+
+	-webkit-animation: backgroundGradientAnimation 30s ease infinite;
+	-moz-animation: backgroundGradientAnimation 30s ease infinite;
+	animation: backgroundGradientAnimation 30s ease infinite;
 }
 
 @font-face{
@@ -19,43 +27,35 @@ body{
 	src: url(../assets/Helvetica/HelveticaNeue.otf);
 }
 
-
 @font-face{
 	font-family: CenturyGothic;
 	src: url(../assets/CenturyGothic/CenturyGothic.ttf);
 }
 .navigation-bar{
-  margin: auto;
-  background-color: #4ABDAC;
   width: 100%;
   height: 80px;
 }
 
 .navigation-bar ul{
+	height: 100%;
+	display: flex;
+	align-items: center;
   list-style-type: none;
-  margin: 0;
-  padding: 0;
   overflow: hidden;
   font-family: Avenir;
   font-size: 30px;
   color: #DFDCE3;
+	margin: 0;
+	padding: 40;
 }
 
-.navigation-bar li{
-	float: left;
-	text-align: center;
-	vertical-align: middle;
-  padding: 14px 16px;
-	color: #DFDCE3;
-}
-
-.navigation-bar li a, .navigation-bar li a:visited{
-	color: #DFDCE3;
-	display: block;
+.navigation-bar li, .navigation-bar li:visited{
+	padding: 0 10px;
 	text-decoration: none;
+	float: left;
 }
-
-li:hover, li a:hover, li a:visited:hover{
+li:hover, li:visited:hover{
+		text-decoration: none;
     color: #F7B733;
 }
 
@@ -68,7 +68,7 @@ li:hover, li a:hover, li a:visited:hover{
   margin: 1% auto;
   height: 150px;
   width: 150px;
-  border: 5px solid #FC4A1A;
+  border: 5px solid #DFDCE3;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -78,24 +78,29 @@ li:hover, li a:hover, li a:visited:hover{
 .welcome{
   text-align: center;
   top: 10%;
-  color: #F7B733;
+  color: #DFDCE3;
   font-size: 30px;
+	margin: 10px 0;
 }
 
 .introduction{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
   height: 100%;
   display: flex;
   justify-content: center;
   flex-direction: column;
-  align-items: center;
 }
 
-
 .down-arrow img{
-  animation: blink-animation 1s steps(5, start) infinite;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  animation: blink-animation 1s steps(5, start) infinite;  align-items: center;
   height: 50px;
   width: 50px;
   margin: 0px auto 3% auto;
@@ -105,4 +110,20 @@ li:hover, li a:hover, li a:visited:hover{
   to{
       opacity: 0.5;
   }
+}
+
+@-webkit-keyframes backgroundGradientAnimation {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes backgroundGradientAnimation {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes backgroundGradientAnimation {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
 }
