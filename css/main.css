@@ -10,7 +10,7 @@ body{
 	padding: 0;
 	min-width: 100%;
   min-height: 100%;
-	background: linear-gradient(270deg, rgb(75, 207, 147), rgb(75, 121, 207), rgb(162, 75, 207)) 0% 0% / 300% 300%;
+	background: linear-gradient(270deg, rgb(75, 207, 147), rgb(75, 121, 207), rgb(162, 75, 207)) 0% 0% / 400% 400%;
 
 	-webkit-animation: backgroundGradientAnimation 30s ease infinite;
 	-moz-animation: backgroundGradientAnimation 30s ease infinite;
@@ -22,18 +22,10 @@ body{
 	src: url(../assets/Avenir/Avenir.otf);
 }
 
-@font-face{
-	font-family: HelveticaNeue;
-	src: url(../assets/Helvetica/HelveticaNeue.otf);
-}
-
-@font-face{
-	font-family: CenturyGothic;
-	src: url(../assets/CenturyGothic/CenturyGothic.ttf);
-}
 .navigation-bar{
   width: 100%;
   height: 80px;
+	z-index: 999;
 }
 
 .navigation-bar ul{
@@ -46,17 +38,17 @@ body{
   font-size: 30px;
   color: #DFDCE3;
 	margin: 0;
-	padding: 40;
 }
 
-.navigation-bar li, .navigation-bar li:visited{
+.navigation-bar li{
 	padding: 0 10px;
 	text-decoration: none;
 	float: left;
+	opacity: 0.7;
 }
-li:hover, li:visited:hover{
+.navigation-bar li:hover{
 		text-decoration: none;
-    color: #F7B733;
+		opacity: 1;
 }
 
 .navigation-bar-active{
@@ -65,7 +57,7 @@ li:hover, li:visited:hover{
 }
 
 .avatar img{
-  margin: 1% auto;
+  margin: -1% auto 1% auto;
   height: 150px;
   width: 150px;
   border: 5px solid #DFDCE3;
@@ -80,10 +72,10 @@ li:hover, li:visited:hover{
   top: 10%;
   color: #DFDCE3;
   font-size: 30px;
-	margin: 10px 0;
 }
 
 .introduction{
+	font-family: 'Eczar', serif;
 	position: absolute;
 	top: 0;
 	bottom: 0;
