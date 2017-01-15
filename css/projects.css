@@ -1,5 +1,7 @@
-body{
-  background-color: #EFD780;
+#projects{
+	height: 100%;
+	width: 100%;
+	background-color: #EFD780;
 }
 
 .heading{
@@ -79,12 +81,11 @@ body{
 
 .card-prog img{
   float: right;
-  height: 24px;
-  width: 24px;
+  height: 30px;
+  width: 30px;
   opacity: 0.4;
   padding: 3px;
   background-color: inherit;
-  margin:
 }
 .card-prog img:hover{
   opacity: 1;

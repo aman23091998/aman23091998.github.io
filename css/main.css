@@ -10,11 +10,6 @@ body{
 	padding: 0;
 	min-width: 100%;
   min-height: 100%;
-	background: linear-gradient(270deg, rgb(75, 207, 147), rgb(75, 121, 207), rgb(162, 75, 207)) 0% 0% / 400% 400%;
-
-	-webkit-animation: backgroundGradientAnimation 30s ease infinite;
-	-moz-animation: backgroundGradientAnimation 30s ease infinite;
-	animation: backgroundGradientAnimation 30s ease infinite;
 }
 
 @font-face{
@@ -22,10 +17,31 @@ body{
 	src: url(../assets/Avenir/Avenir.otf);
 }
 
+#home{
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background: linear-gradient(270deg, rgb(75, 207, 147), rgb(75, 121, 207), rgb(162, 75, 207)) 0% 0% / 400% 400%;
+	-webkit-animation: backgroundGradientAnimation 30s ease infinite;
+	-moz-animation: backgroundGradientAnimation 30s ease infinite;
+	animation: backgroundGradientAnimation 30s ease infinite;
+}
+
+#main{
+	overflow-y:scroll;
+	position: absolute;
+	top: 80px;
+	height: 90%;
+	width: 100%;
+
+}
 .navigation-bar{
   width: 100%;
   height: 80px;
+	position: fixed;
 	z-index: 999;
+	overflow: hidden;
 }
 
 .navigation-bar ul{
@@ -38,6 +54,7 @@ body{
   font-size: 30px;
   color: #DFDCE3;
 	margin: 0;
+	overflow: hidden;
 }
 
 .navigation-bar li{
@@ -48,14 +65,23 @@ body{
 }
 .navigation-bar li:hover{
 		text-decoration: none;
-		opacity: 1;
+		color: rgba(0,0,0,0.5);
 }
 
 .navigation-bar-active{
-    color: #F7B733;
-    background-color: #16A085;
+	color: rgba(0,0,0,1);
 }
 
+.introduction{
+	position: relative;
+	font-family: 'Eczar', serif;
+	position: block;
+  display: flex;
+	height: 80%;
+  justify-content: center;
+  flex-direction: column;
+
+}
 .avatar img{
   margin: -1% auto 1% auto;
   height: 150px;
@@ -74,29 +100,19 @@ body{
   font-size: 30px;
 }
 
-.introduction{
-	font-family: 'Eczar', serif;
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-}
 
-.down-arrow img{
+
+#down-arrow img{
 	position: absolute;
-	bottom: 0;
-	left: 0;
-	right: 0;
   animation: blink-animation 1s steps(5, start) infinite;  align-items: center;
   height: 50px;
   width: 50px;
+	left: 0;
+	right: 0;
   margin: 0px auto 3% auto;
 }
+
+
 
 @keyframes blink-animation {
   to{

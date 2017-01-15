@@ -1,0 +1,98 @@
+*{
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+body{
+  background-color: #605856;
+  color: #FFF;
+}
+
+.about-me{
+  width: 80%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 5% auto;
+  background-color: rgba(255, 255, 255, 0.5);;
+  padding: 5%;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+#education{
+  font-size: 30px;
+  font-weight: 600;
+  text-decoration: underline;
+  font-family: #FFF;
+  font-family: 'Eczar', serif;
+}
+#edu-card-holder{
+  width: 80%;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.edu-card{
+  display: flex;
+  flex-flow: row;
+  justify-content: flex-start;
+  min-width: 300px;
+  width: 350px;
+  height: 120px;
+  margin: 20px 2%;
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 5px;
+  color: #000;
+  background-color: #FFF;
+  padding: 5px;
+}
+
+.edu-card img{
+  height: 90px;
+  width: 90px;
+  padding: 5px;
+}
+
+.edu-card p{
+  margin-left: 10px;
+  text-align: center;
+}
+
+#connect-holder{
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 5px;
+}
+
+#connect-holder img{
+  height: 30px;
+  width: 30px;
+  opacity: 0.4;
+  margin: 10px;
+}
+
+#connect-holder img:hover{
+  opacity: 1;
+}
+
+#resume{
+  display: flex;
+  flex-flow: row;
+  text-decoration: none;
+}
+
+#resume a:visited{
+  text-decoration: none;
+  color: #FFF;
+}
