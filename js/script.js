@@ -7,35 +7,31 @@ var changeNavState = function(item_id){
   $(item_id).addClass("navigation-bar-active");
 }
 
-$('#down-arrow').click(function(){
+function scrollPage(item, item_id){
+  var scrollTopValue = $root.scrollTop()  + $(item).offset().top - 80;
   $root.animate({
-    scrollTop: $('#projects').offset().top
+    scrollTop: scrollTopValue
   }, 1000);
-  // $('#nav_projects').addClass("navigation-bar-active");
-  // $('#nav_home').removeClass("navigation-bar-active");
-  // $('#nav_about').removeClass("navigation-bar-active");
-  changeNavState('#nav_projects');
+  changeNavState(item_id);
   return true;
+};
+$("#down-arrow, #nav_projects").on('click', function(){
+  scrollPage('#projects', '#nav_projects')
+});
+$('#nav_home').on('click', function(){
+  scrollPage('.introduction', '#nav_home')
+});
+$('#nav_about').on('click', function(){
+  scrollPage('#about', '#nav_about')
 });
 
-$('#nav_projects').click(function(){
-  $root.animate({
-    scrollTop: $('#projects').offset().top
-  }, 1000);
-  changeNavState('#nav_projects');
-  // $('#nav_projects').addClass("navigation-bar-active");
-  // $('#nav_home').removeClass("navigation-bar-active");
-  // $('#nav_about').removeClass("navigation-bar-active");
-  return true;
-});
+var homeOffset = $('#home').offset().top;
+var projectsOffset = $('#projects').offset().top;
+var aboutOffset = $('#about').offset().top;
 
-$('#nav_home').click(function(){
-  $root.animate({
-    scrollTop: $('#home').offset().top
-  }, 1000);
-  changeNavState('#nav_home');
-  // $('#nav_home').addClass("navigation-bar-active");
-  // $('#nav_projects').removeClass("navigation-bar-active");
-  // $('#nav_about').removeClass("navigation-bar-active");
-  return true;
+$root.on('scroll', function(){
+  console.log($root.scrollTop());
+  if($root.scrollTop() + 20 >= aboutOffset - 80)changeNavState('#nav_about');
+  else if ($root.scrollTop() + 20 >= projectsOffset - 80)changeNavState('#nav_projects');
+  else changeNavState('#nav_home');
 });
