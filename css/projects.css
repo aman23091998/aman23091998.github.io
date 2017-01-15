@@ -1,13 +1,13 @@
 #projects{
 	width: 100%;
 	background-color: #EFD780;
+	padding: 20px;
 }
 
 .heading{
   font-size: 40px;
   font-weight: 600;
   text-decoration: underline;
-  font-family: #605856;
   text-align: center;
   font-family: 'Eczar', serif;
 }
