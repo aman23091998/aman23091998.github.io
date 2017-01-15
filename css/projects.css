@@ -34,21 +34,13 @@
   background-color: #FFF
 }
 
-.card-info, .feature-info{
+.card-info{
   width: 100%;
-  height: 40px;
+  height: 150px;
   transition: height 1s ease;
   overflow: hidden;
   background-color: #605856;
   color: #FBFCFF;
-}
-
-.card-info:hover{
-  height: 250px;
-}
-
-.feature-info:hover{
-  height: 150px;
 }
 
 .card-name{

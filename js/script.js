@@ -5,7 +5,7 @@ var changeNavState = function(item_id){
   $('#nav_home').removeClass("navigation-bar-active");
   $('#nav_about').removeClass("navigation-bar-active");
   $(item_id).addClass("navigation-bar-active");
-}
+};
 
 function scrollPage(item, item_id){
   var scrollTopValue = $root.scrollTop()  + $(item).offset().top - 80;
@@ -14,15 +14,15 @@ function scrollPage(item, item_id){
   }, 1000);
   changeNavState(item_id);
   return true;
-};
+}
 $("#down-arrow, #nav_projects").on('click', function(){
-  scrollPage('#projects', '#nav_projects')
+  scrollPage('#projects', '#nav_projects');
 });
 $('#nav_home').on('click', function(){
-  scrollPage('.introduction', '#nav_home')
+  scrollPage('.introduction', '#nav_home');
 });
 $('#nav_about').on('click', function(){
-  scrollPage('#about', '#nav_about')
+  scrollPage('#about', '#nav_about');
 });
 
 var homeOffset = $('#home').offset().top;
