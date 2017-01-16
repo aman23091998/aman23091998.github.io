@@ -1,5 +1,5 @@
 #about{
-  height: 100%;
+
   width: 100%;
   background-color: #605856;
   color: #FFF;
@@ -28,19 +28,18 @@
 #edu-card-holder{
   width: 80%;
   display: flex;
-  flex-flow: row;
+  flex-flow: row wrap;
   align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
 }
 
 .edu-card{
   display: flex;
-  flex-flow: row;
-  justify-content: flex-start;
+  justify-content: center;
+  align-items: center;
   min-width: 300px;
   width: 350px;
-  height: 120px;
+  height: 150px;
   margin: 20px 2%;
   box-sizing: border-box;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -81,15 +80,4 @@
 
 #connect-holder img:hover{
   opacity: 1;
-}
-
-#resume{
-  display: flex;
-  flex-flow: row;
-  text-decoration: none;
-}
-
-#resume a:visited{
-  text-decoration: none;
-  color: #FFF;
 }
