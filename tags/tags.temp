@@ -1,0 +1,175 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/3f0ea94/
+*	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+*	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+*:after	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+*:after	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+*:before	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+*:before	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+.burger	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.burger	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.burger__container	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.burger__container	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.burger__meat	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.burger__meat	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.burger__meat--1	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.burger__meat--1	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.burger__meat--2	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.burger__meat--2	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.burger__meat--3	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.burger__meat--3	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.fancy	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.handle	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.lead	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.lead	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav--active .burger__meat--1	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav--active .burger__meat--1	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav--active .burger__meat--2	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav--active .burger__meat--2	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav--active .burger__meat--3	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav--active .burger__meat--3	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav--active .nav	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav--active .nav	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav--active .nav__list	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav--active .nav__list	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav__list	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav__list	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav__list a	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+.nav__list a	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+.nav__list a.active	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav__list a.active	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.nav__list a:hover	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+.nav__list a:hover	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+.nav__list li	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+.nav__list li	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+.nav__list li:last-of-type	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+.nav__list li:last-of-type	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+.post	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.post-list	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.post-list__container	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.post__date	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.post__header .tags__list	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.post__header .tags__list .tag__item	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.post__header .tags__list .tag__item:last-child	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.post__header .tags__list .tag__link	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.post__title	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.post__title a	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+.social-icons	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.social-icons	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.social-icons__link	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.social-icons__link	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.social-icons__link .social-icons__icon	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.social-icons__link .social-icons__icon	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.social-icons__link:not(:last-child)	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.social-icons__link:not(:last-child)	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.splash h1	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+.splash h2	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+.splash-container	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.tag__link	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.tag__link::before	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.tag__link:hover	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.tags__list	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+.writing	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+Hi, I&#39;m Aman 👋.	index.html	/^    <h1>Hi, I&#39;m Aman 👋<span class="fancy">.<\/span><\/h1>$/;"	h
+I&#39;m a fourth year software engineering student passionate about systems engineering.	index.html	/^    <\/h2>$/;"	i
+This is not the page you were looking for	404.html	/^  <\/h1>$/;"	h
+abbr[title]	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+abbr[title]	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+atom	categories/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+blockquote	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+blockquote	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+blockquote cite	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+blockquote cite	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+blockquote cite::before	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+blockquote cite::before	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+blockquote::before	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+blockquote::before	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+body	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+body	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+body.nav--active	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+body.nav--active	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	c
+button	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+button	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+button[type=button]	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+button[type=button]	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+button[type=reset]	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+button[type=reset]	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+button[type=submit]	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+button[type=submit]	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+code	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+code	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+h1	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+h1	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+h2	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+h2	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+h3	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+h3	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+h4	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+h4	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+h5	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+h5	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+h6	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+h6	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+html	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+html	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+initBurger	js/index.min.49e4d8a384357d9b445b87371863419937ede9fa77737522ffb633073aebfa44.js	/^function initBurger(){const burger=document.querySelector(".burger");burger.addEventListener("cl/;"	f
+input	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+input	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+input[type=email]	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+input[type=email]	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+input[type=text]	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+input[type=text]	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+main	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+main	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+navigation	404.html	/^  <nav class="nav" id="navigation">$/;"	I
+navigation	categories/index.html	/^  <nav class="nav" id="navigation">$/;"	I
+navigation	index.html	/^  <nav class="nav" id="navigation">$/;"	I
+navigation	tags/index.html	/^  <nav class="nav" id="navigation">$/;"	I
+ns26b219d50101	svg/twitter.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="24" height="24" viewBox="0 0 24 24" fill="non/;"	n	uri:http://www.w3.org/2000/svg
+ns2b972dd70101	sitemap.xml	/^  xmlns:xhtml="http:\/\/www.w3.org\/1999\/xhtml">$/;"	n	uri:http://www.sitemaps.org/schemas/sitemap/0.9
+ns40ba1ec50101	svg/github.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="24" height="24" viewBox="0 0 24 24" fill="non/;"	n	uri:http://www.w3.org/2000/svg
+ns45fbe5350101	svg/gitlab.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="24" height="24" viewBox="0 0 24 24" fill="non/;"	n	uri:http://www.w3.org/2000/svg
+ns507483bc0101	svg/facebook.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="24" height="24" viewBox="0 0 24 24" fill="non/;"	n	uri:http://www.w3.org/2000/svg
+ns5945d9c80101	svg/instagram.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="24" height="24" viewBox="0 0 24 24" fill="non/;"	n	uri:http://www.w3.org/2000/svg
+ns5c11eb6f0101	svg/youtube.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="24" height="24" viewBox="0 0 24 24" fill="non/;"	n	uri:http://www.w3.org/2000/svg
+ns7b6aae8f0101	svg/chevron-left.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="24" height="24" viewBox="0 0 24 24" fill="non/;"	n	uri:http://www.w3.org/2000/svg
+ns853cdc930101	svg/resume.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" enable-background="new 0 0 24 24" height="24" viewBo/;"	n	uri:http://www.w3.org/2000/svg
+nsbfb3a80a0101	svg/email.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="24" height="24" viewBox="0 0 24 24" fill="non/;"	n	uri:http://www.w3.org/2000/svg
+nsf0a978900101	svg/linkedin.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="24" height="24" viewBox="0 0 24 24" fill="non/;"	n	uri:http://www.w3.org/2000/svg
+ol	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+ol	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+ol li	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+ol li	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+ol ol	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+ol ol	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+ol ul	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+ol ul	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+p	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+p	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+pre	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+pre	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+pre code	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+pre code	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+pre>code	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+pre>code	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+toggleMobileNavState	js/index.min.49e4d8a384357d9b445b87371863419937ede9fa77737522ffb633073aebfa44.js	/^function toggleMobileNavState(){const body=document.querySelector("body");body.classList.toggle(/;"	f
+ul	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+ul	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+ul li	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+ul li	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+ul ol	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+ul ol	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+ul ul	css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+ul ul	css/posts.min.9d00414be708b07c685f180cfce5239fac4e85078a970260044342d7422f18f8.css	/^@charset "UTF-8";button,button[type=button],button[type=reset],button[type=submit]{-webkit-appea/;"	s
+xhtml	sitemap.xml	/^  xmlns:xhtml="http:\/\/www.w3.org\/1999\/xhtml">$/;"	n	uri:http://www.w3.org/1999/xhtml
